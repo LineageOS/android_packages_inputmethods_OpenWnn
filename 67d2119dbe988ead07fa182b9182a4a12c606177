@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_c203590e",
+        "filename": "src/jp/co/omronsoft/openwnn/OpenWnnEN.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 440,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2014-12-04T09:48:19Z",
+      "side": 1,
+      "message": "return ev.errorCode \u003d\u003d 0;",
+      "revId": "67d2119dbe988ead07fa182b9182a4a12c606177",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_82095134",
+        "filename": "src/jp/co/omronsoft/openwnn/OpenWnnJAJP.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 740,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2014-12-04T09:48:19Z",
+      "side": 1,
+      "message": "return ev.errorCode \u003d\u003d 0 ?",
+      "revId": "67d2119dbe988ead07fa182b9182a4a12c606177",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
